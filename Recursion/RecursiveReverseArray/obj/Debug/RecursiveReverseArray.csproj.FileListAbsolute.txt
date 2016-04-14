@@ -1,0 +1,6 @@
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveReverseArray\bin\Debug\RecursiveReverseArray.exe.config
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveReverseArray\bin\Debug\RecursiveReverseArray.exe
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveReverseArray\bin\Debug\RecursiveReverseArray.pdb
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveReverseArray\obj\Debug\RecursiveReverseArray.csprojResolveAssemblyReference.cache
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveReverseArray\obj\Debug\RecursiveReverseArray.exe
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveReverseArray\obj\Debug\RecursiveReverseArray.pdb

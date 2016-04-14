@@ -1,0 +1,5 @@
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveCombinations\bin\Debug\RecursiveCombinations.exe.config
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveCombinations\bin\Debug\RecursiveCombinations.exe
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveCombinations\bin\Debug\RecursiveCombinations.pdb
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveCombinations\obj\Debug\RecursiveCombinations.exe
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveCombinations\obj\Debug\RecursiveCombinations.pdb

@@ -1,0 +1,6 @@
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\PathsInLabirint\bin\Debug\PathsInLabirint.exe.config
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\PathsInLabirint\bin\Debug\PathsInLabirint.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\PathsInLabirint\bin\Debug\PathsInLabirint.pdb
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\PathsInLabirint\obj\Debug\PathsInLabirint.csprojResolveAssemblyReference.cache
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\PathsInLabirint\obj\Debug\PathsInLabirint.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\PathsInLabirint\obj\Debug\PathsInLabirint.pdb

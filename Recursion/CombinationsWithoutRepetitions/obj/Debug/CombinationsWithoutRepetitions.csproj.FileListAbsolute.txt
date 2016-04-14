@@ -1,0 +1,6 @@
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\CombinationsWithoutRepetitions\bin\Debug\CombinationsWithoutRepetitions.exe.config
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\CombinationsWithoutRepetitions\obj\Debug\CombinationsWithoutRepetitions.csprojResolveAssemblyReference.cache
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\CombinationsWithoutRepetitions\bin\Debug\CombinationsWithoutRepetitions.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\CombinationsWithoutRepetitions\bin\Debug\CombinationsWithoutRepetitions.pdb
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\CombinationsWithoutRepetitions\obj\Debug\CombinationsWithoutRepetitions.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\CombinationsWithoutRepetitions\obj\Debug\CombinationsWithoutRepetitions.pdb

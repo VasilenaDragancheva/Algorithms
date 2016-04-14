@@ -1,0 +1,6 @@
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\ConnectedAreasinMatri\bin\Debug\ConnectedAreasinMatri.exe.config
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\ConnectedAreasinMatri\bin\Debug\ConnectedAreasinMatri.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\ConnectedAreasinMatri\bin\Debug\ConnectedAreasinMatri.pdb
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\ConnectedAreasinMatri\obj\Debug\ConnectedAreasinMatri.csprojResolveAssemblyReference.cache
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\ConnectedAreasinMatri\obj\Debug\ConnectedAreasinMatri.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\ConnectedAreasinMatri\obj\Debug\ConnectedAreasinMatri.pdb

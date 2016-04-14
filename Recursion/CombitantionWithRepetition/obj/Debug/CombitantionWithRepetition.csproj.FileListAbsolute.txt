@@ -1,0 +1,6 @@
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\CombitantionWithRepetition\bin\Debug\CombitantionWithRepetition.exe.config
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\CombitantionWithRepetition\bin\Debug\CombitantionWithRepetition.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\CombitantionWithRepetition\bin\Debug\CombitantionWithRepetition.pdb
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\CombitantionWithRepetition\obj\Debug\CombitantionWithRepetition.csprojResolveAssemblyReference.cache
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\CombitantionWithRepetition\obj\Debug\CombitantionWithRepetition.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Solution1\CombitantionWithRepetition\obj\Debug\CombitantionWithRepetition.pdb

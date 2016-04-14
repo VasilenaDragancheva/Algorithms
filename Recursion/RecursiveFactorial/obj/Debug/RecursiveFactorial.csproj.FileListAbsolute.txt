@@ -1,0 +1,6 @@
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe.config
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveFactorial\bin\Debug\RecursiveFactorial.exe
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveFactorial\bin\Debug\RecursiveFactorial.pdb
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveFactorial\obj\Debug\RecursiveFactorial.csprojResolveAssemblyReference.cache
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveFactorial\obj\Debug\RecursiveFactorial.exe
+c:\users\user-01\documents\visual studio 2013\Projects\Solution1\RecursiveFactorial\obj\Debug\RecursiveFactorial.pdb
