@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortable-Collection", "Sort
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sortable-Collection.Tests", "Sortable-Collection.Tests\Sortable-Collection.Tests.csproj", "{789E4757-15E3-453D-ACAC-F5D5553521FF}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConsoleApplication1", "ConsoleApplication1\ConsoleApplication1.csproj", "{3B44FC3B-4B66-4ADE-AD1A-8065BD0C040C}"
-EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -23,10 +21,6 @@ Global
 		{789E4757-15E3-453D-ACAC-F5D5553521FF}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{789E4757-15E3-453D-ACAC-F5D5553521FF}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{789E4757-15E3-453D-ACAC-F5D5553521FF}.Release|Any CPU.Build.0 = Release|Any CPU
-		{3B44FC3B-4B66-4ADE-AD1A-8065BD0C040C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{3B44FC3B-4B66-4ADE-AD1A-8065BD0C040C}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{3B44FC3B-4B66-4ADE-AD1A-8065BD0C040C}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{3B44FC3B-4B66-4ADE-AD1A-8065BD0C040C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
