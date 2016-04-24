@@ -33,16 +33,15 @@
 
             for (int i = store + 1; i <= end; i++)
             {
-
                 if (pivot.CompareTo(partition[i]) > 0)
                 {
                     store++;
                     var smallerElement = partition[i];
                     partition[i] = partition[store];
                     partition[store] = smallerElement;
-                   
                 }
             }
+
             partition[start] = partition[store];
             partition[store] = pivot;
             return store;

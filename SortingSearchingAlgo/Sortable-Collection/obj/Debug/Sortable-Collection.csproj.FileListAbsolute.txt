@@ -7,3 +7,6 @@ C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\3. Sorting-and-
 C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\SortingSearchingAlgo\Sortable-Collection\bin\Debug\01.Students-And-Courses.exe.config
 C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\SortingSearchingAlgo\Sortable-Collection\obj\Debug\01.Students-And-Courses.exe
 C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\SortingSearchingAlgo\Sortable-Collection\obj\Debug\01.Students-And-Courses.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\SortingSearchingAlgo\Sortable-Collection\bin\Debug\01.Students-And-Courses.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\SortingSearchingAlgo\Sortable-Collection\bin\Debug\01.Students-And-Courses.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\SortingSearchingAlgo\Sortable-Collection\obj\Debug\Sortable-Collection.csprojResolveAssemblyReference.cache

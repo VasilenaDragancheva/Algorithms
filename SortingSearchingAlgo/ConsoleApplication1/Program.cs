@@ -2,48 +2,71 @@
 {
     using System.Collections.Generic;
 
-    class Program
+    public class Program
     {
-        static void Main(string[] args)
+        public static void Sort(List<int> collection)
         {
-            var copy = new List<int>() { 3, 44, 38, 5, 47, 15, 36, 26, 27, 2, 46, 4, 1, 19, 50, 48 };
-            int n = copy.Count - 1;
-            QuickSortRecuirsion(copy, 0, n);
+            int end = collection.Count - 1;
+            MergeSort(collection, 0, end);
         }
 
-        private static void QuickSortRecuirsion(List<int> partition, int start, int end)
+        private static void MergeSort(List<int> collection, int start, int end)
         {
             if (start >= end)
             {
                 return;
-                
             }
 
-            int pivot = GetPivot(partition, start, end);
-            QuickSortRecuirsion(partition, start, pivot);
-            QuickSortRecuirsion(partition, pivot + 1, end);
+            int mid = start + ((end - start) / 2);
+            MergeSort(collection, start, mid);
+            MergeSort(collection, mid + 1, end);
+
+            int[] mergedArray = new int[end - start + 1];
+
+            int leftIndex = start;
+            int rightIndex = mid + 1;
+            int merged = 0;
+            while (leftIndex <= mid && rightIndex <= end)
+            {
+                if (collection[leftIndex] <= collection[rightIndex])
+                {
+                    mergedArray[merged] = collection[leftIndex];
+                    leftIndex++;
+                }
+                else
+                {
+                    mergedArray[merged] = collection[rightIndex];
+                    rightIndex++;
+                }
+
+                merged++;
+            }
+
+            while (leftIndex <= mid)
+            {
+                mergedArray[merged] = collection[leftIndex];
+                leftIndex++;
+                merged++;
+            }
+
+            while (rightIndex <= end)
+            {
+                mergedArray[merged] = collection[rightIndex];
+                rightIndex++;
+                merged++;
+            }
+
+            for (int i = 0; i < mergedArray.Length; i++)
+            {
+                collection[start + i] = mergedArray[i];
+            }
         }
 
-        public static int GetPivot(List<int> partition, int start, int end)
-            {
-            int pivot = partition[start];
-            int store = start;
-
-            for (int i = store + 1; i <= end; i++)
-            {
-                int currentNumber = partition[i];
-                if (pivot.CompareTo(currentNumber) > 0)
-                {
-                    store++;
-                    var smallerElement = partition[i];
-                    partition[i] = partition[store];
-                    partition[store] = smallerElement;
-                   
-                }
-            }
-            partition[start] = partition[store];
-            partition[store] = pivot;
-            return store;
+        static void Main(string[] args)
+        {
+            // 3, 44, 38, 5, 47, 15, 36, 26,
+            var collection = new List<int> { 3, 44, 38, 5, 47, 15, 36, 26, 27, 2, 46, 4, 19, 50, 48 };
+            Sort(collection);
         }
     }
 }

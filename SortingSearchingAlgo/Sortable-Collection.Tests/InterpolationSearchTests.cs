@@ -6,6 +6,7 @@
     public class InterpolationSearchTests
     {
         [TestMethod]
+
         // TODO: Rename test method
         public void TestMethod1()
         {

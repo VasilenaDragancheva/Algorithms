@@ -2,11 +2,11 @@
 {
     using System;
 
-    using Sortable_Collection.Sorters;
+    using Sorters;
 
     public class SortableCollectionPlayground
     {
-        private static Random Random = new Random();
+        private static readonly Random Random = new Random();
 
         public static void Main(string[] args)
         {
@@ -21,8 +21,8 @@
             }
 
             var collectionToSort = new SortableCollection<int>(array);
-          //  collectionToSort.Sort(new BucketSorter { Max = MaxValue });
 
+            // collectionToSort.Sort(new BucketSorter { Max = MaxValue });
             Console.WriteLine(collectionToSort);
 
             var collection = new SortableCollection<int>(2, -1, 5, 0, -3);

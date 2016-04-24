@@ -4,17 +4,16 @@
 
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
-    using Sortable_Collection.Sorters;
-
     [TestClass]
     public class BucketSortTests
     {
-        private const int NumberOfTests = 5000;
-
-        private const int MinNumberOfElementsToSort = 1;
         private const int MaxNumberOfElementsToSort = 10000;
 
         private const int MaxValueCeiling = int.MaxValue;
+
+        private const int MinNumberOfElementsToSort = 1;
+
+        private const int NumberOfTests = 5000;
 
         private static readonly Random Random = new Random();
 
@@ -36,8 +35,8 @@
                 var collection = new SortableCollection<int>(elements);
 
                 Array.Sort(elements);
-                //collection.Sort(new BucketSorter { Max = maxValue });
 
+                // collection.Sort(new BucketSorter { Max = maxValue });
                 CollectionAssert.AreEqual(elements, collection.ToArray());
             }
         }

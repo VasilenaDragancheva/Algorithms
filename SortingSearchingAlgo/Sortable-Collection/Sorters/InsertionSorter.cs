@@ -3,9 +3,10 @@
     using System;
     using System.Collections.Generic;
 
-    using Sortable_Collection.Contracts;
+    using Contracts;
 
-    public class InsertionSorter<T> : ISorter<T> where T : IComparable<T>
+    public class InsertionSorter<T> : ISorter<T>
+        where T : IComparable<T>
     {
         public void Sort(List<T> collection)
         {

@@ -1,7 +1,6 @@
 ﻿namespace Sortable_Collection.Tests
 {
     using System;
-    using System.Linq;
 
     using Microsoft.VisualStudio.TestTools.UnitTesting;
 
@@ -18,18 +17,10 @@
             var result = collection.BinarySearch(0);
             var expected = Array.BinarySearch(collection.ToArray(), 0);
 
-            Assert.AreEqual(expected, result, "No elements are present in an empty collection; method should return -1.");
-        }
-
-        [TestMethod]
-        public void TestWithMissingElement()
-        {
-            var collection = new SortableCollection<int>(-1, 1, 5, 12, 50);
-
-            var result = collection.BinarySearch(0);
-            var expected = -1;
-
-            Assert.AreEqual(expected, result, "Missing element should return -1.");
+            Assert.AreEqual(
+                expected, 
+                result, 
+                "No elements are present in an empty collection; method should return -1.");
         }
 
         [TestMethod]
@@ -66,29 +57,38 @@
         }
 
         [TestMethod]
-        public void TestWithMultipleMissingKeysSmallerThanMinimum()
+        public void TestWithMissingElement()
         {
-            const int NumberOfChecks = 10000;
-            const int NumberOfElements = 1000;
+            var collection = new SortableCollection<int>(-1, 1, 5, 12, 50);
+
+            var result = collection.BinarySearch(0);
+            var expected = -1;
+
+            Assert.AreEqual(expected, result, "Missing element should return -1.");
+        }
+
+        [TestMethod]
+        public void TestWithMultipleKeys()
+        {
+            const int NumberOfElements = 10000;
 
             var elements = new int[NumberOfElements];
 
             for (int i = 0; i < NumberOfElements; i++)
             {
-                elements[i] = Random.Next(int.MinValue / 2, int.MaxValue / 2);
+                elements[i] = Random.Next(-100, 100);
             }
 
             Array.Sort(elements);
 
             var collection = new SortableCollection<int>(elements);
 
-            for (int i = 0; i < NumberOfChecks; i++)
+            foreach (var element in elements)
             {
-                var item = Random.Next(int.MinValue, collection.Items[0]);
+                int expected = Array.BinarySearch(elements, element);
+                int result = collection.BinarySearch(element);
 
-                int result = collection.BinarySearch(item);
-
-                Assert.AreEqual(-1, result);
+                Assert.AreEqual(expected, result);
             }
         }
 
@@ -120,27 +120,29 @@
         }
 
         [TestMethod]
-        public void TestWithMultipleKeys()
+        public void TestWithMultipleMissingKeysSmallerThanMinimum()
         {
-            const int NumberOfElements = 10000;
+            const int NumberOfChecks = 10000;
+            const int NumberOfElements = 1000;
 
             var elements = new int[NumberOfElements];
 
             for (int i = 0; i < NumberOfElements; i++)
             {
-                elements[i] = Random.Next(-100, 100);
+                elements[i] = Random.Next(int.MinValue / 2, int.MaxValue / 2);
             }
 
             Array.Sort(elements);
 
             var collection = new SortableCollection<int>(elements);
 
-            foreach (var element in elements)
+            for (int i = 0; i < NumberOfChecks; i++)
             {
-                int expected = Array.BinarySearch(elements, element);
-                int result = collection.BinarySearch(element);
+                var item = Random.Next(int.MinValue, collection.Items[0]);
 
-                Assert.AreEqual(expected, result);
+                int result = collection.BinarySearch(item);
+
+                Assert.AreEqual(-1, result);
             }
         }
 
