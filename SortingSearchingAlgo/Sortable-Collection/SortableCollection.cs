@@ -40,9 +40,9 @@
             return 0;
         }
 
-        public int InterpolationSearch(T item)
+        public int InterpolationSearch(T item) 
         {
-            throw new NotImplementedException();
+            
         }
 
         public void Shuffle()
