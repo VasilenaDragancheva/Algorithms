@@ -1,0 +1,5 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\DFS-Graph-Traversal\bin\Debug\Graph-Traversal.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\DFS-Graph-Traversal\bin\Debug\Graph-Traversal.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\DFS-Graph-Traversal\obj\Debug\1. DFS-Graph-Traversal.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\DFS-Graph-Traversal\obj\Debug\Graph-Traversal.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\DFS-Graph-Traversal\obj\Debug\Graph-Traversal.pdb

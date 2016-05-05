@@ -1,0 +1,6 @@
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\PermutationsWithoutrepetions\bin\Debug\PermutationsWithoutrepetions.exe.config
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\PermutationsWithoutrepetions\bin\Debug\PermutationsWithoutrepetions.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\PermutationsWithoutrepetions\bin\Debug\PermutationsWithoutrepetions.pdb
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\PermutationsWithoutrepetions\obj\Debug\PermutationsWithoutrepetions.csprojResolveAssemblyReference.cache
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\PermutationsWithoutrepetions\obj\Debug\PermutationsWithoutrepetions.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\PermutationsWithoutrepetions\obj\Debug\PermutationsWithoutrepetions.pdb

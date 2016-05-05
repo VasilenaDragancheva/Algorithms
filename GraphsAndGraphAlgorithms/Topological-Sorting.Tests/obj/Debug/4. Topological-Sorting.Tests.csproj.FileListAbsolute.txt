@@ -1,0 +1,7 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.Tests.dll
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.Tests.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\Topological-Sorting.Tests\bin\Debug\Topological-Sorting-DFS.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\Topological-Sorting.Tests\obj\Debug\4. Topological-Sorting.Tests.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\Topological-Sorting.Tests\obj\Debug\Topological-Sorting-DFS.Tests.dll
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\Topological-Sorting.Tests\obj\Debug\Topological-Sorting-DFS.Tests.pdb

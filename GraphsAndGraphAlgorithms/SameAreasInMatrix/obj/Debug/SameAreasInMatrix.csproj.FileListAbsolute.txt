@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\SameAreasInMatrix\bin\Debug\SameAreasInMatrix.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\SameAreasInMatrix\bin\Debug\SameAreasInMatrix.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\SameAreasInMatrix\bin\Debug\SameAreasInMatrix.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\SameAreasInMatrix\obj\Debug\SameAreasInMatrix.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\SameAreasInMatrix\obj\Debug\SameAreasInMatrix.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\SameAreasInMatrix\obj\Debug\SameAreasInMatrix.pdb

@@ -1,0 +1,5 @@
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\CombinationWithoutRepetions\bin\Debug\Combination.exe.config
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\CombinationWithoutRepetions\bin\Debug\Combination.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\CombinationWithoutRepetions\bin\Debug\Combination.pdb
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\CombinationWithoutRepetions\obj\Debug\Combination.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\CombinationWithoutRepetions\obj\Debug\Combination.pdb

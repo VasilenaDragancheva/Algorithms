@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\Topological-Sorting\bin\Debug\Topological-Sorting-DFS.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\Topological-Sorting\bin\Debug\Topological-Sorting-DFS.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\Topological-Sorting\bin\Debug\Topological-Sorting-DFS.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\Topological-Sorting\obj\Debug\3. Topological-Sorting.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\Topological-Sorting\obj\Debug\Topological-Sorting-DFS.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\Topological-Sorting\obj\Debug\Topological-Sorting-DFS.pdb

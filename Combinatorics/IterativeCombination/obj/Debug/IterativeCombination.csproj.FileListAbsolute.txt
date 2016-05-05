@@ -1,0 +1,5 @@
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\IterativeCombination\bin\Debug\IterativeCombination.exe.config
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\IterativeCombination\bin\Debug\IterativeCombination.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\IterativeCombination\bin\Debug\IterativeCombination.pdb
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\IterativeCombination\obj\Debug\IterativeCombination.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\IterativeCombination\obj\Debug\IterativeCombination.pdb

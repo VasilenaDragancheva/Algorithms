@@ -1,0 +1,6 @@
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\IterativePermutation\bin\Debug\IterativePermutation.exe.config
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\IterativePermutation\bin\Debug\IterativePermutation.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\IterativePermutation\bin\Debug\IterativePermutation.pdb
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\IterativePermutation\obj\Debug\IterativePermutation.csprojResolveAssemblyReference.cache
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\IterativePermutation\obj\Debug\IterativePermutation.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\IterativePermutation\obj\Debug\IterativePermutation.pdb

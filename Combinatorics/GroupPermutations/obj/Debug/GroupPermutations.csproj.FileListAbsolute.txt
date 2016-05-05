@@ -1,0 +1,6 @@
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\GroupPermutations\bin\Debug\GroupPermutations.exe.config
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\GroupPermutations\bin\Debug\GroupPermutations.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\GroupPermutations\bin\Debug\GroupPermutations.pdb
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\GroupPermutations\obj\Debug\GroupPermutations.exe
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\GroupPermutations\obj\Debug\GroupPermutations.pdb
+C:\Users\User-01\documents\visual studio 2013\Projects\Combinatorics\GroupPermutations\obj\Debug\GroupPermutations.csprojResolveAssemblyReference.cache
