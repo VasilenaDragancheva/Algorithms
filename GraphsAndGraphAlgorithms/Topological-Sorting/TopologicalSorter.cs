@@ -1,64 +1,56 @@
-﻿using System.Collections.Generic;
-using System.Linq;
+﻿using System;
+using System.Collections.Generic;
 
 public class TopologicalSorter
 {
     private readonly Dictionary<string, List<string>> graph;
 
-    private readonly Dictionary<string, int> predeccCount;
+    private readonly HashSet<string> visited;
+
+    private readonly HashSet<string> currentDfs;
+
+    private readonly LinkedList<string> topSorted;
 
     public TopologicalSorter(Dictionary<string, List<string>> graph)
     {
         this.graph = graph;
-        this.predeccCount = new Dictionary<string, int>();
-        this.CountPredeccessors();
+        this.visited = new HashSet<string>();
+        this.topSorted = new LinkedList<string>();
+        this.currentDfs = new HashSet<string>();
     }
 
     public ICollection<string> TopSort()
     {
-        var removedNodes = new List<string>();
-        var vertextes = this.predeccCount.Keys.ToList();
-
-        while (removedNodes.Count < this.graph.Count)
-        {
-            foreach (var vertex in vertextes)
-            {
-                if (this.predeccCount[vertex] == 0 && !removedNodes.Contains(vertex))
-                {
-                    removedNodes.Add(vertex);
-
-                    if (this.graph.ContainsKey(vertex))
-                    {
-                        foreach (var vert in this.graph[vertex])
-                        {
-                            this.predeccCount[vert]--;
-                        }
-                    }
-                }
-            }
-        }
-
-        return removedNodes;
-    }
-
-    private void CountPredeccessors()
-    {
         foreach (var vertex in this.graph)
         {
-            if (!this.predeccCount.ContainsKey(vertex.Key))
-            {
-                this.predeccCount[vertex.Key] = 0;
-            }
+            this.DfsTopSort(vertex.Key);
+        }
 
-            foreach (var vert in vertex.Value)
+        return this.topSorted;
+    }
+
+    private void DfsTopSort(string vertex)
+    {
+        if (this.currentDfs.Contains(vertex))
+        {
+            throw new InvalidOperationException();
+        }
+
+        if (!this.visited.Contains(vertex))
+        {
+            this.visited.Add(vertex);
+            this.currentDfs.Add(vertex);
+
+            if (this.graph.ContainsKey(vertex))
             {
-                if (!this.predeccCount.ContainsKey(vert))
+                foreach (var vert in this.graph[vertex])
                 {
-                    this.predeccCount[vert] = 0;
+                    this.DfsTopSort(vert);
                 }
-
-                this.predeccCount[vert]++;
             }
+
+            this.topSorted.AddFirst(vertex);
+            this.currentDfs.Remove(vertex);
         }
     }
 }

@@ -45,6 +45,7 @@
   </ItemGroup>
   <ItemGroup>
     <Compile Include="TopologicalSorter.cs" />
+    <Compile Include="TopoSorterSourseRemoval.cs" />
     <Compile Include="TopSorterExample.cs" />
   </ItemGroup>
   <ItemGroup>
