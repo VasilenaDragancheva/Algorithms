@@ -11,11 +11,11 @@ public class GraphConnectedComponents
             new List<int> { 0, 1, 4 }, new List<int>(), new List<int> { 2 }
         };
 
-    public static bool[] visited = new bool[graph.Length];
-
+    public static bool[] visited;
     public static void Main()
     {
         graph = ReadGraph();
+        visited = new bool[graph.Length];
         FindGraphConnectedComponents();
     }
 
