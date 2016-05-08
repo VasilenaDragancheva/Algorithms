@@ -1,0 +1,6 @@
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\FindCyclesInGraph\bin\Debug\FindCyclesInGraph.exe.config
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\FindCyclesInGraph\bin\Debug\FindCyclesInGraph.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\FindCyclesInGraph\bin\Debug\FindCyclesInGraph.pdb
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\FindCyclesInGraph\obj\Debug\FindCyclesInGraph.csprojResolveAssemblyReference.cache
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\FindCyclesInGraph\obj\Debug\FindCyclesInGraph.exe
+C:\Users\User-01\Documents\Projects\Homeworks_SoftUni\Algorithms\GraphsAndGraphAlgorithms\FindCyclesInGraph\obj\Debug\FindCyclesInGraph.pdb
